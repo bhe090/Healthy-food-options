@@ -5,3 +5,6 @@
 [Healthy food Advantages](https://github.com/bhe090/Healthy-food-options/blob/main/Advantages.html)
 
 [Healthy food Nutrients](https://github.com/bhe090/Healthy-food-options/blob/main/Nutritional%20information.html)
+
+[License](https://github.com/bhe090/Healthy-food-options/blob/main/LICENSE)
+
